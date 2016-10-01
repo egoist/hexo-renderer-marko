@@ -1,6 +1,6 @@
 {
   "name": "hexo-renderer-marko",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Using marko in Hexo templates.",
   "license": "MIT",
   "repository": "egoist/hexo-renderer-marko",
