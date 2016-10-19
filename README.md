@@ -2,7 +2,7 @@
 
 Use [marko](https://github.com/marko-js/marko/) template in Hexo.
 
-## Install
+## Install   
 
 ```bash
 $ npm install --save hexo-renderer-marko
