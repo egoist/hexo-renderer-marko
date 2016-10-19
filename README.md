@@ -1,6 +1,6 @@
 # hexo-renderer-marko [![NPM version](https://img.shields.io/npm/v/hexo-renderer-marko.svg?style=flat-square)](https://npmjs.com/package/hexo-renderer-marko) [![NPM downloads](https://img.shields.io/npm/dm/hexo-renderer-marko.svg?style=flat-square)](https://npmjs.com/package/hexo-renderer-marko) [![Build Status](https://img.shields.io/circleci/project/egoist/hexo-renderer-marko/master.svg?style=flat-square)](https://circleci.com/gh/egoist/hexo-renderer-marko)
 
-Use [marko](https://github.com/marko-js/marko/) template in Hexo.
+ssse [marko](https://github.com/marko-js/marko/) template in Hexo.
 
 ## Install   
 
